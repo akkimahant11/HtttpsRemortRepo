@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Akash
+=======
+Hello akki How are you !
+>>>>>>> 1b4afac96aad2c5cf29317a39086c980d63efda4
